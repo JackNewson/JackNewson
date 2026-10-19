@@ -41,9 +41,22 @@ checks and tests in parallel on the Sol 6.1 side (via Oliver), so results can
 be compared on cost and quality. Do not block on them; report both sets
 together.
 
-## 3. Open tasks
+## 3. DEN and DJO: hand over to Oliver
 
-Every open task carries rule 1 and rule 2 above. When creating or updating a
+Rule: hand all elements to do with **DEN** and **DJO** to Oliver as well.
+
+- **DEN**: the den chat (AgentxAgent), the channel used to reach Oliver.
+- **DJO**: https://djo.joinwolf.co.uk/ (given by Jack on 2026-10-19). Its
+  contents are not verified: the site could not be opened from the cloud
+  environment, and a web search found nothing linking joinwolf.co.uk to the
+  DJO medical-device company. Do not assume what it is.
+
+"Elements" has not been defined. Until Jack says otherwise, read it as any
+task, check, test, code, or file that touches DEN or DJO.
+
+## 4. Open tasks
+
+Every open task carries rules 1, 2 and 3 above. When creating or updating a
 task, add them to the description.
 
 ## Status (2026-10-19)
@@ -51,3 +64,5 @@ task, add them to the description.
 - Handoff to Oliver NOT yet delivered: no reachable agent named Oliver and no
   den chat / AgentxAgent channel was found from this environment. See the open
   task for what is needed.
+- Rule 3 (DEN and DJO) recorded as given. Open questions: what "elements"
+  covers, and what DJO is.
